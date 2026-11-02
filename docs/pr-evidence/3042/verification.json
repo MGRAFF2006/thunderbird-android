@@ -1,0 +1,34 @@
+{
+  "package": "net.thunderbird.android.debug",
+  "version": "27.0-SNAPSHOT",
+  "api": 36,
+  "screen_normal": "1080x2400 at 420 dpi",
+  "screen_small": "840x1680 at 420 dpi (320x640 dp)",
+  "font_scale_large": 2.0,
+  "results": [
+    {
+      "mode": "When Android auto-sync is on",
+      "selection": "pass",
+      "process_restart": "pass",
+      "checked_choice": "pass"
+    },
+    {
+      "mode": "Never",
+      "selection": "pass",
+      "process_restart": "pass",
+      "checked_choice": "pass"
+    },
+    {
+      "mode": "Always",
+      "selection": "pass",
+      "process_restart": "pass",
+      "checked_choice": "pass"
+    },
+    {
+      "mode": "When Android auto-sync is on",
+      "selection": "pass",
+      "process_restart": "pass",
+      "checked_choice": "pass"
+    }
+  ]
+}
